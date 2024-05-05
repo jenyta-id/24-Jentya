@@ -14,4 +14,4 @@
   
 - ❓ Ask me about anything related to Web & UI/UX developer.
 
-- 👾 Fun fact: A quitter never wins and a winner never quits.
+- 👾 Fun fact: "...if you give up before your goal is reached you’re a Quitter. A Quitter Never Wins and a Winner Never Quits."
